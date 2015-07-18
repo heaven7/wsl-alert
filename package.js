@@ -20,9 +20,3 @@ Package.onUse(function(api) {
     api.export('wAlert', ['client'])
 
 });
-
-Package.onTest(function(api) {
-    api.use('tinytest');
-    api.use('wsl-alert');
-    api.addFiles('wsl-alert-tests.js');
-});
