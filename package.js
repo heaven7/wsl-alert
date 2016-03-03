@@ -1,6 +1,6 @@
 Package.describe({
   name: 'heaven7:wsl-alert',
-  version: '0.0.2',
+  version: '0.0.2_1',
   summary: 'Wrapper for juliancwirko:s-alert',
   git: 'https://github.com/heaven7/wsl-alert.git',
   documentation: 'README.md'
